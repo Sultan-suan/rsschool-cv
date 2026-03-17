@@ -45,3 +45,12 @@ function multiply(a, b) {
 
 const result = multiply(5, 4);
 console.log(result);
+
+```
+
+## Education
+
+Self-education and online practicing
+
+- FreeCodeCamp - Frontend Development
+- RS School - JS / Frontend course
