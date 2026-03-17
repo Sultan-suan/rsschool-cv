@@ -54,3 +54,11 @@ Self-education and online practicing
 
 - FreeCodeCamp - Frontend Development
 - RS School - JS / Frontend course
+
+---
+
+## Hobbies
+
+- playing soccer on weekends
+- watching movies with wife
+- listen musics on Yandex Music
